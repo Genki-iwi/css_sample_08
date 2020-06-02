@@ -14,7 +14,7 @@
 header {
     position: relative;
     height: 8rem;
-    background: #333;
+    background: url("https://cdn.pixabay.com/photo/2020/05/15/18/46/corona-5174671_1280.jpg");
     box-shadow: 0 4px 0.3125rem rgba(0, 0, 0, 0.3);
 }
 
